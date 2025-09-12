@@ -19,4 +19,10 @@ information = ["Joy",01.23034,"72/1,Banus hydara"]
 print(fruits[0])
 print(my_list2[1])
 print(languages[3])
-print(Planets[2])
+print(Planets[2]) 
+
+ #slicing
+
+print(languages[1:3])
+print(fruits[2:3])
+print(my_list[0:3])
