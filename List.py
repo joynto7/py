@@ -26,3 +26,19 @@ print(Planets[2])
 print(languages[1:3])
 print(fruits[2:3])
 print(my_list[0:3])
+  
+
+# Modifing List Elements
+
+
+
+fruits.append("Llichi")
+fruits.extend(["GoGo","Amra","waterLemon"])
+
+print(fruits)
+
+banana_count =fruits.count('Banana')
+print(banana_count)
+
+orange_cout = fruits.count('Orange')
+print(orange_cout)
